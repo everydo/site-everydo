@@ -4,6 +4,6 @@ exclude: ['*.png', img, agent, cert, essay.rst, indexcol.rst, signup.rst, forum.
   robots.txt, apps-dev.json, apps.json]
 order: [index.rst, tour, apps, paas, cases, purchase, blog]
 theme: index.html
-theme_base: http://localhost:6543/themes/contents/everydo.com/
+theme_base: http://localhost:6543/themes/everydo.com/
 theme_default: index.html
 title: 易度云办公：企业在线工作平台
