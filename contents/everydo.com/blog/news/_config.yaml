@@ -1,7 +1,4 @@
 description: ''
 exclude: [index.rst]
 order: []
-theme: default.html
-theme_base: http://localhost:6543/themes/viewer/
-theme_default: default.html
 title: 易度淘宝记系列之—轻松进行项目费用管理

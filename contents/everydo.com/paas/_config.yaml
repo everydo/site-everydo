@@ -1,7 +1,4 @@
 description: ''
 exclude: [img, deploy.rst, pkg.rst, signup.rst, esp.rst, applet, datamanager, indexcol.rst]
 order: [index.rst, workdesk, worksite, workgroup, project, bizman, admin]
-theme: default.html
-theme_base: http://localhost:6543/themes/viewer/
-theme_default: default.html
 title: 开发平台

@@ -1,7 +1,4 @@
 description: ''
 exclude: [index.rst, img, right_col.rst]
 order: [biz.rst, support.rst, join.rst, help.rst]
-theme: default.html
-theme_base: http://localhost:6543/themes/viewer/
-theme_default: default.html
 title: 代理合作

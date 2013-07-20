@@ -25,7 +25,4 @@ order: [file_log.jpg, file_info_01.jpg, file_info_02.jpg, file_info_03.jpg, file
   file_movefolder_02.jpg, file_filedelete_02.jpg, target.png, bulb.gif, file_department_01.jpg,
   file_department_02.jpg, file_group.jpg, file_myfile_02.jpg, file_nei.jpg, file_liucheng.gif,
   myfile.jpg]
-theme: default.html
-theme_base: http://localhost:6543/themes/viewer/
-theme_default: default.html
 title: img

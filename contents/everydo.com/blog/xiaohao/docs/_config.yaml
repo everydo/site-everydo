@@ -1,7 +1,4 @@
 description: 易度最新动态、活动消息、新功能通告
 exclude: [img]
 order: []
-theme: default.html
-theme_base: http://localhost:6543/themes/viewer/
-theme_default: default.html
 title: 消息公告

@@ -8,16 +8,22 @@
     <dd class="portletItem">
 
     <li class="navTreeItem visualNoMarker node"
-       kssattr:nodeurl="http://everydo.com/apps/index.rst">
+       kssattr:nodeurl="http://everydo.com/tour/index.rst">
        <div class="visualIcon contenttype-folder">
 
 .. navtree::
    :root_depth: 1
+   :class: portletNavigationTree navTreeLevel0
 
 .. raw:: html
 
    </div>
    </li>
+   </ul>
+   </dd>
+   <dd class="portletFooter">
+    <div>
+    </div>
    </dd>
     <div class="edoBox">
         <a href="http://oc.easydo.cn/@@signup.html?setup=zopen.setups.all"><img src="img/register.png" alt="注册"  style="margin-left:12px"></a>

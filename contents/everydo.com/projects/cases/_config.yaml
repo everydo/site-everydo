@@ -1,7 +1,4 @@
 description: 各行各业，超过3万家注册用户，获得一致好评
 exclude: [img, index.rst, indexcol.rst]
 order: [wasion.rst, qianjing.rst, pzhgy.rst, gzgy.rst, CZUG.rst]
-theme: default.html
-theme_base: http://localhost:6543/themes/viewer/
-theme_default: default.html
 title: 客户案例

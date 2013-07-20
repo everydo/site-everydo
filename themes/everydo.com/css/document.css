@@ -372,7 +372,7 @@ text-decoration:none;
 padding-left:0.5em
 }
 /* navtree */
-li.selected div a.navTreeCurrentItem {
+dd.portletItem LI.active A {
 background-color:#A5A5A5;
 border:0px;
 color:#FFF;

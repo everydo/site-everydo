@@ -2,7 +2,4 @@ description: ''
 exclude: [indexcol.rst, pic, deptimg, flowimg, img]
 order: [index.rst, edoapps.rst, docs.rst, project.rst, dept.rst, flow.rst, client.rst,
   desk.rst, pkg.rst, apps.rst]
-theme: default.html
-theme_base: http://localhost:6543/themes/viewer/
-theme_default: default.html
 title: 产品介绍

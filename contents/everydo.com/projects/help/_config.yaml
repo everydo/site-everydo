@@ -1,7 +1,4 @@
 description: 常见问题和帮助
 exclude: [img, index.rst, helpindex.rst, indexcol.rst]
 order: [易度项目管理产品介绍.pdf, new-edoproject-manual.pdf]
-theme: default.html
-theme_base: http://localhost:6543/themes/viewer/
-theme_default: default.html
 title: 支持与下载

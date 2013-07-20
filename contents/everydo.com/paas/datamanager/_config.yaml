@@ -2,7 +2,4 @@ description: 结合一个定餐管理系统实例，使用数据管理器，进�
 exclude: [img]
 order: [preface.rst, requirement.rst, form.rst, flow1.rst, flow2.rst, fields.rst,
   settings.rst, var.rst]
-theme: default.html
-theme_base: http://localhost:6543/themes/viewer/
-theme_default: default.html
 title: 表单和流程定制指南
