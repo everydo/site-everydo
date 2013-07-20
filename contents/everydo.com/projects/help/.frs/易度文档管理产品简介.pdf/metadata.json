@@ -1,0 +1,21 @@
+{
+    "main": {
+        "conenttype": "File"
+    }, 
+    "dublin": {
+        "rights": "", 
+        "publisher": "", 
+        "identifier": "", 
+        "contributors": [], 
+        "title": "《易度文档管理产品简介》(pdf)", 
+        "description": "幻灯片的形式，图文并茂了解易度文档管理系统", 
+        "created": "2009-01-17 06:51:52", 
+        "modified": "2009-01-17 06:51:52", 
+        "language": "", 
+        "subjects": [], 
+        "creators": [
+            "users.panjunyong"
+        ], 
+        "type": ""
+    }
+}

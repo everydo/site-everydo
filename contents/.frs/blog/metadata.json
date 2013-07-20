@@ -1,0 +1,14 @@
+{
+    "main": {
+        "right_col":".. include:: indexcol.rst",
+        "hidden_keys": [
+            "indexcol.rst",
+            "index.rst"
+        ],
+        "contenttype": "Folder"
+    },
+    "dublin": {
+        "description": "",
+        "title": "产品博客"
+    }
+}

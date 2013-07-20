@@ -1,0 +1,104 @@
+===============================================
+易度在线项目管理软件
+===============================================
+
+.. image:: img/banner.gif
+   :class: banner_img
+	  
+.. - 多方协作平台
+ 
+     开发部、设计部、市场部、客户、分公司
+
+   - 理念:  **做最好用的项目管理软件**
+
+   - 荣誉::
+
+         国内第一款租用模式(SaaS)的项目管理软件
+
+         2007年国内最优秀的在线协作软件! -- 《计世资讯》
+
+..  .. class:: featurelist
+
+易度项目: 互联网上的多方项目协作平台
+===============================================
+
+只需30秒，即刻开通您自己的客户项目服务平台
+------------------------------------------------
+.. image:: img/fengexian.gif
+.. image:: img/pic1.gif
+   :class: float-left
+
+客户抱怨，沟通不畅，工作返工?
+
+注册易度，开通客户登录账号，即刻开通拥有独立域名和您公司logo的客户项目服务站点！
+
+加强客户的沟通和协作，提升服务水平，增强公司品牌和市场竞争力。
+
+跨部门、跨组织的团队异地协作
+----------------------------------------------------
+.. image:: img/fengexian.gif
+.. image:: img/pic2.gif
+   :class: float-left
+
+如何实现不同部门之间、分公司之间甚至不同区域间的沟通协作？
+
+使用易度，即可在互联网上建立您的多方协作工作平台，时间可空间将不再成为多方协作的障碍；
+
+易度支持多语言，更可让您轻松和国外团队无隙协作。
+
+实时监控，跟踪项目最新进度
+-------------------------------------
+.. image:: img/fengexian.gif
+.. image:: img/pic3.gif
+   :class: float-left
+
+公司项目众多，难以及时获取项目最新进度和存在问题，更无法及时调整和应对？
+
+通过易度项目管理平台，您可即时查看公司项目的进度情况、出现的问题、以及计划滞后的原因等，
+
+项目管理尽在您的把控之中。
+
+项目知识资料管理
+--------------------------
+.. image:: img/fengexian.gif
+.. image:: img/pic4.gif
+   :class: float-left
+
+还在为查找和重用以往项目所产生的知识、文档等资料而头疼吗？
+
+易度可以将项目资料共享给相关人员，帮助企业把项目知识资料积累沉淀下来，在需要的时候，
+
+可以很方便地调出项目资料，作为参考使用。
+
+
+.. class:: imagelist
+
+产品功能截图
+=====================================
+.. |imgtodo| image:: img/edo-products-project-intro-img11.gif
+           :target: tour/img/todolist_page.gif
+
+.. |imgfile| image:: img/edo-products-project-intro-img12.gif
+           :target: tour/img/filerepos_page.gif
+
+.. |imgtime| image:: img/edo-products-project-intro-img13.gif
+           :target: tour/img/timetrack_page.gif
+
+.. |imgmilestone| image:: img/edo-products-project-intro-img14.gif
+           :target: tour/img/milestone_page.gif
+
+.. list-table:: 
+   :widths: 10, 10, 10, 10
+   :header-rows: 0
+   :class: text-center noborder imagebar
+
+   * - |imgmilestone|
+     - |imgtodo|
+     - |imgfile|
+     - |imgtime|
+   * - 里程碑 
+     - 任务分配
+     - 文件共享
+     - 工作量
+
+

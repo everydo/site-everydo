@@ -1,0 +1,22 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "conenttype": "Document"
+    }, 
+    "dublin": {
+        "rights": "", 
+        "publisher": "", 
+        "identifier": "", 
+        "contributors": [], 
+        "title": "常见问题列表", 
+        "description": "易度windows安装版本常见问题列表", 
+        "created": "2009-01-17 06:51:52", 
+        "modified": "2009-01-17 06:51:52", 
+        "language": "", 
+        "subjects": [], 
+        "creators": [
+            "users.panjunyong"
+        ], 
+        "type": ""
+    }
+}

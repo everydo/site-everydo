@@ -1,0 +1,4 @@
+description: ''
+exclude: [indexcol.rst, signup.rst, img]
+order: [index.rst, hello.rst, tour, api.rst, faq.rst, esp.rst]
+title: 产品购买

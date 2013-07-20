@@ -1,0 +1,10 @@
+{
+    "main": {
+        "right_col":".. include:: indexcol.rst",
+        "contenttype": "Document"
+    }, 
+    "dublin": {
+        "description": "", 
+        "title": "　费用"
+    }
+}

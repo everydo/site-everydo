@@ -1,0 +1,21 @@
+{
+    "main": {
+        "hidden_keys": [
+            "img", 
+            "index.rst"
+        ], 
+        "keys": [
+            "2009", 
+            "2008"
+        ], 
+        "contenttype": "Document"
+    }, 
+    "dublin": {
+        "creators": [
+            "张炳凯"
+        ], 
+        "created": "2009-02-03 20:47", 
+        "description": "", 
+        "title": "EveryDo对联"
+    }
+}

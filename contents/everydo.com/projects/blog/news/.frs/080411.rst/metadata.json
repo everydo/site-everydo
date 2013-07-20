@@ -1,0 +1,13 @@
+{
+    "main": {
+        "contenttype": "Document"
+    }, 
+    "dublin": {
+        "creators": [
+            "潘俊勇"
+        ], 
+        "created": "2008-04-11 20:47", 
+        "description": "增加繁体版本、分离创建项目权限、文件分类快速编辑、易用的标签管理...", 
+        "title": "080411升级改进"
+    }
+}

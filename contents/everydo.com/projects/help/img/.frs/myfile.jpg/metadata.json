@@ -1,0 +1,27 @@
+{
+    "main": {
+        "mimetype": "image/jpeg", 
+        "conenttype": "Image", 
+        "id": 1991486418, 
+        "stati": [
+            "visible.default", 
+            "modify.default"
+        ]
+    }, 
+    "dublin": {
+        "rights": "", 
+        "publisher": "", 
+        "identifier": "", 
+        "description": "", 
+        "contributors": [], 
+        "title": "myfile.jpg", 
+        "created": "2009-01-18 10:15:00", 
+        "modified": "2009-01-18 10:15:00", 
+        "language": "", 
+        "subjects": [], 
+        "creators": [
+            "users.anson"
+        ], 
+        "type": ""
+    }
+}

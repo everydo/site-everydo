@@ -1,0 +1,13 @@
+{
+    "main": {
+        "right_col":".. news:: 博客\n   :path: blog\n   :size: 40",
+        "hidden_keys": [
+            "index.rst"
+        ], 
+        "contenttype": "Folder"
+    }, 
+    "dublin": {
+        "description": "", 
+        "title": "产品博客"
+    }
+}

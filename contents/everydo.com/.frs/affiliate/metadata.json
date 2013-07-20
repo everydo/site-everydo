@@ -1,0 +1,10 @@
+{
+    "main": {
+        "left_col": ".. navtree::\n   :root_depth: 2",
+        "contenttype": "Document"
+    }, 
+    "dublin": {
+        "description": "", 
+        "title": "用户双赢"
+    }
+}

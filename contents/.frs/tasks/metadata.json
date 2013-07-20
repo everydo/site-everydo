@@ -1,0 +1,11 @@
+{
+    "main": {
+        "left_col":"",
+        "right_col": ".. include:: indexcol.rst",
+        "contenttype": "Folder"
+    }, 
+    "dublin": {
+        "description": "", 
+        "title": ""
+    }
+}

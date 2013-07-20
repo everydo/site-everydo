@@ -1,0 +1,27 @@
+{
+    "main": {
+        "mimetype": "image/gif", 
+        "conenttype": "Image", 
+        "id": 511458947, 
+        "stati": [
+            "visible.default", 
+            "modify.default"
+        ]
+    }, 
+    "dublin": {
+        "rights": "", 
+        "publisher": "", 
+        "identifier": "", 
+        "description": "", 
+        "contributors": [], 
+        "title": "bulb.gif", 
+        "created": "2009-01-18 08:11:16", 
+        "modified": "2009-01-18 08:11:16", 
+        "language": "", 
+        "subjects": [], 
+        "creators": [
+            "users.anson"
+        ], 
+        "type": ""
+    }
+}

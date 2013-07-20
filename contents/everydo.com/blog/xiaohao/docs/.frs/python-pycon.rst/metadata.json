@@ -1,0 +1,13 @@
+{
+    "main": {
+        "contenttype": "Document"
+    },
+    "dublin": {
+        "title": "世界Python爱好者的盛会-PyCon",
+        "description": "",
+        "creators": [
+            "黄恒森"
+        ],
+        "created": "2011-12-16 10:29:34.273268"
+    }
+}

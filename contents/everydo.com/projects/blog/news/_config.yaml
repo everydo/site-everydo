@@ -1,0 +1,7 @@
+description: 易度项目管理系统新版本正式上线邀测
+exclude: [index.rst]
+order: []
+theme: default.html
+theme_base: http://localhost:6543/themes/viewer/
+theme_default: default.html
+title: 公司新闻

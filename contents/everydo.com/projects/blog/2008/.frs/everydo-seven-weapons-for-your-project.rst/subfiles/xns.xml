@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<metadata xmlns="http://plone.org/ns/archetypes/" xmlns:cmf="http://cmf.zope.org/namespaces/default/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xmp="adobe:ns:meta">
+	<dc:title>
+七种武器之综合演练
+	</dc:title>
+	<dc:description>
+总体上，如何使用EveryDo的七种武器，进行项目协作和项目管理
+	</dc:description>
+	<dc:creator>潘俊勇</dc:creator>
+	<dc:created>2008-04-08 04:29:50</dc:created>
+	<field id="hidden_keys">
+	  "img","index.rst"
+	</field>
+	<field id="keys">
+	  "2008","2007"
+	</field>
+</metadata>

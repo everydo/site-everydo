@@ -1,0 +1,21 @@
+{
+    "main": {
+        "right_col": ".. navtree::\n   :root_depth: 2",
+        "contenttype": "Folder",
+        "keys": [
+            "about.rst",
+            "contact.rst",
+            "spread.rst",
+            "privacy.rst",
+            "terms.rst"
+        ],
+        "hidden_keys": [
+            "img",
+            "contact.rst.bak"
+        ]
+    }, 
+    "dublin": {
+        "description": "", 
+        "title": "导航"
+    }
+}

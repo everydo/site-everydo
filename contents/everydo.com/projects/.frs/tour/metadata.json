@@ -1,0 +1,24 @@
+{
+    "main": {
+        "left_col": ".. navtree::\n   :root_depth: 2",
+        "keys": [
+            "index.rst",
+            "classic.rst",
+            "security.rst",
+            "ue.rst",
+            "saas.rst"
+        ], 
+        "hidden_keys": [
+            "img",
+            "what.rst",
+            "why.rst",
+            "picture",
+            "tourindex.rst"
+        ], 
+        "contenttype": "Folder"
+    }, 
+    "dublin": {
+        "description": "", 
+        "title": "产品介绍"
+    }
+}

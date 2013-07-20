@@ -1,0 +1,21 @@
+{
+    "main": {
+        "hidden_keys": [
+            "img", 
+            "index.rst"
+        ], 
+        "keys": [
+            "2008", 
+            "2007"
+        ], 
+        "contenttype": "Document"
+    }, 
+    "dublin": {
+        "creators": [
+            "潘俊勇"
+        ], 
+        "created": "2008-04-08 04:29:50", 
+        "description": "总体上，如何使用EveryDo的七种武器，进行项目协作和项目管理", 
+        "title": "七种武器之综合演练"
+    }
+}

@@ -1,0 +1,7 @@
+description: ''
+exclude: [indexcol.rst, img2, img]
+order: [pdca.rst, docs.rst, project.rst, portal.rst]
+theme: default.html
+theme_base: http://localhost:6543/themes/viewer/
+theme_default: default.html
+title: 解决方案

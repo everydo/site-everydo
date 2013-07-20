@@ -1,0 +1,10 @@
+{
+    "main": {
+        "right_col":".. include:: indexcol.rst",
+        "contenttype": "Document"
+    }, 
+    "dublin": {
+        "description": "部门独立的管理空间，包括公告、论坛、计划任务和文档管理功能等", 
+        "title": "　部门"
+    }
+}

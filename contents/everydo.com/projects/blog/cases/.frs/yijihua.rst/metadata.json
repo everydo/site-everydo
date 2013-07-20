@@ -1,0 +1,13 @@
+{
+    "main": {
+        "contenttype": "Folder",
+        "hidden_keys": ["index.rst"]
+    }, 
+    "dublin": {
+        "creators": [
+            "黄恒森"
+        ], 
+        "created": "2012-03-21 18:43", 
+        "title": "参与到公益事业当中，为翼计划组织建立项目管理系统"
+    }
+}

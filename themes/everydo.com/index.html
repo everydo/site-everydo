@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="Keywords" content="项目管理系统,计划管理,任务管理,工作平台,文档管理系统,文档管理软件,文档管理,知识管理">
+    <meta name="Description" content="易度在线工作平台，包括一组在线发布的企业日常管理软件服务，采用SaaS模式发布。具体包括易度项目、易度流程、易度计划、易度>报告、易度任务、易度文档、易度论坛、易度部门、易度消息、易度费用、易度工作量、易度客户等."/>
+    <meta name="google-site-verification" content="HJI0vG3MZy_8V3H16t2567xmV8jP5JWJvCR0MuEMBZQ" />
+
+    <link href="/themes/everydo.com/css/base.css" rel="stylesheet" type="text/css" />
+    <link href="/themes/everydo.com/css/document.css?v=20110906" rel="stylesheet" type="text/css" />
+    <link href="/themes/everydo.com/css/portlets.css" rel="stylesheet" type="text/css" />
+
+    <!--link rel="alternate" href="" title="RSS 1.0" type="application/rss+xml" tal:attributes="href string:/RSS" /-->
+
+    <!-- Disable IE6 image toolbar -->
+    <meta http-equiv="imagetoolbar" content="no" />
+
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta http-equiv="pragma" content="no-cache" />
+
+    <!--script src="/themes/everydo.com/general/js/zoom/FancyZoom.js" type="text/javascript" ></script -->
+    <!--script src="/themes/everydo.com/general/js/zoom/FancyZoomHTML.js" type="text/javascript"></script -->
+    <link rel="shortcut icon" type="image/x-icon" href="/themes/everydo.com/img/favicon.ico" />
+    <!--base tal:define="zopen_view nocall:context/@@zopen_view"
+          tal:attributes="href zopen_view/base_href_url"
+          /--><!--[if lt IE 7]></base><![endif]-->
+
+    <!-- Internet Explorer CSS Fixes -->
+
+  </head>
+
+
+  <body onload="setupZoom()">
+    <div id="visual-portal-wrapper">
+      <div id="portal-top">
+         <div id="portal-header">
+             <div id="portal-tel">全国热线电话：020-38055596, 400106683  <a href="http://weibo.com/panjunyong" target="_blank"><img src="/themes/everydo.com/general/img/weibo.png" height="20" width="20" />对话产品经理</a></div>
+           <div>
+             <a href="http://everydo.com"><img src="/themes/everydo.com/img/logo.gif" title="易度：企业在线工作平台" style="margin-top:12px"/></a>
+           </div>
+           <ul id="portal-globalnav">
+             $nav
+           </ul>
+         </div>
+      </div>
+      <div class="visualClear" id="clear-space-before-wrapper-table"><!-- --></div>
+      <div id="portal-block-one">
+      <div id="portal-block-two">
+          <table id="portal-columns" align="center">
+            <tr id = "id_tr">
+                $left
+              <td id="portal-column-content">
+                <div id="content" class="documentContent">$content</div>
+              </td>
+              <td id="portal-column-two">
+                <div class="visualPadding">
+                  <ul class="portletNavigationTree navTreeLevel0">
+                  $right
+                  </ul>
+                </div>
+              </td>
+            </tr>
+          </table>
+     </div>
+     </div>
+      <!--div id="portal-footer"> </div-->
+
+        <div id="portal-footer">
+            <div id="portal-footer-nav">
+                <p style="letter-spacing:0.5em">易度云办公系列</p>
+                <table>
+                <tr>
+                  <td><a href="http://www.everydo.com" target="_blank"><img src="/themes/everydo.com/img/everydo.png" title="易度云办公"/></a></td>
+                  <td><a href="http://www.edodocs.com" target="_blank"><img src="/themes/everydo.com/img/docs.png" title="易度文档"/></a></td>
+                  <td><a href="http://pm.everydo.com" target="_blank"><img src="/themes/everydo.com/img/projects.png" title="易度项目"/></a></td>
+                  <td><a href="http://viewer.everydo.com" target="_blank"><img src="/themes/everydo.com/img/everydo.png" title="易度云查看"/></a></td>
+                  <td><a href="http://opensource.everydo.com" target="_blank"><img src="/themes/everydo.com/img/opensource.png" title="易度开源中心"/></a></td>
+                </tr>
+                <tr>
+                  <td><a href="http://www.everydo.com" target="_blank">易度云办公</a></td>
+                  <td><a href="http://www.edodocs.com" target="_blank">易度文档管理</a></td>
+                  <td><a href="http://pm.everydo.com" target="_blank">易度项目</a></td>
+                  <td><a href="http://viewer.everydo.com" target="_blank" title="在线文档查看解决方案">易度云查看</a></td>
+                  <td><a href="http://opensource.everydo.com" target="_blank">易度开源中心</a></td>
+                </tr>
+              </table>
+
+              <div class="about">
+                <p>
+                    <a href="/common/contact.rst">联系我们</a> |
+                    <a href="/common/about.rst">关于易度</a> |
+                    <a href="/common/job.rst">人才招聘</a> |
+                    <a href="/common/privacy.rst">隐私保护</a> |
+                    <a href="/common/terms.rst">服务条款</a> |
+                    <a href="/agent">合作代理</a> |
+                    <a href="/feedback.rst">用户反馈</a>
+                </p>
+                <p>
+                    版权所有 &copy; 2002-2013
+                    <a target="_blank" href="http://zopen.cn"> 润普网络科技有限公司（广州 - 上海） </a>
+                    <a target="_blank" href="http://www.miibeian.gov.cn/" rel="nofollow">粤ICP备11098433</a>
+                </p>
+              </div>
+
+        </div>
+    </div>
+
+
+    <script type="text/javascript">
+        var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+        document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ff040fb4c1268bfdab157813053d6b973' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+
+    <div class="sta">
+        <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script>
+        <script type="text/javascript">
+        try {
+            var pageTracker = _gat._getTracker("UA-13170837-2");
+            pageTracker._trackPageview();
+        } catch(err) {}
+        </script>
+
+        <script src="http://s20.cnzz.com/stat.php?id=3040157&web_id=3040157&show=pic" language="JavaScript"></script>
+    </div>
+
+
+  </body>
+</html>

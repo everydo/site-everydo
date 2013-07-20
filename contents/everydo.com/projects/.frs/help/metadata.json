@@ -1,0 +1,20 @@
+{
+    "main": {
+        "left_col": ".. navtree::\n   :root_depth: 2",
+        "hidden_keys": [
+            "img", 
+            "index.rst",
+            "helpindex.rst",
+            "indexcol.rst"
+        ], 
+        "keys":[
+                "易度项目管理产品介绍.pdf",
+                "new-edoproject-manual.pdf"
+        ],
+        "contenttype": "Folder"
+    }, 
+    "dublin": {
+        "description": "常见问题和帮助", 
+        "title": "支持与下载"
+    }
+}

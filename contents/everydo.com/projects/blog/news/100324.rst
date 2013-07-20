@@ -1,0 +1,22 @@
+---
+created: 2010-03-22 14:25
+creator: benky
+description: ''
+title: 推荐使用非IE6浏览器访问易度平台
+---
+亲爱的易度用户： 
+   
+   在持续改进我们的产品和提升性能的过程中，我们利用了一些网页浏览器的最新技术，这包括更快的javascript解析引擎和ajax操作交互。为得到更快的系统使用速度，推荐您选择IE8, Firefox火狐浏览器使用。 
+
+   使用基于微软的IE6核心的浏览器访问易度平台，在交互使用上比较慢，IE6浏览器早在2001年发布，2004年就不再提供技术支持。互联网世界，已经有很多著名厂商和在线服务商公共表示将不支持IE6浏览器，这其中包括Google, YouTube, Apple, Facebook, Digg, 37signals等。所以建议您使用更好、更佳的浏览器访问易度平台，来感受我们更好的服务，谢谢。 
+     
+
+ `火狐浏览器下载地址 <http://download.mozilla.org/?product=firefox-3.6.2&os=win&lang=zh-CN>`__ 
+
+ `IE8微软官方下载 <http://www.microsoft.com/china/windows/internet-explorer>`__
+
+   感谢您的继续支持。 
+
+   此致 
+
+易度团队

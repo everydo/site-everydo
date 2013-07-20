@@ -1,0 +1,27 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "conenttype": "Document", 
+        "id": 1837627936, 
+        "stati": [
+            "modify.default", 
+            "visible.default"
+        ]
+    }, 
+    "dublin": {
+        "rights": "", 
+        "publisher": "", 
+        "identifier": "", 
+        "contributors": [], 
+        "title": "文件库FRS存储格式", 
+        "description":"FRS是系统后台文件存储规范，本文定义了详细的存储格式。",
+        "created": "2009-01-18 02:29:23", 
+        "modified": "2009-01-18 02:29:23", 
+        "language": "", 
+        "subjects": [], 
+        "creators": [
+            "users.panjunyong"
+        ], 
+        "type": ""
+    }
+}

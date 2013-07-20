@@ -1,0 +1,17 @@
+{
+    "main": {
+        "conenttype": "File"
+    }, 
+    "dublin": {
+        "title": "《易度文档管理产品介绍》(pdf)", 
+        "description": "全面介绍易度文档管理系统的所有特性", 
+        "created": "2009-01-17 06:51:52", 
+        "modified": "2009-01-17 06:51:52", 
+        "language": "", 
+        "subjects": [], 
+        "creators": [
+            "users.panjunyong"
+        ], 
+        "type": ""
+    }
+}

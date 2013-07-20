@@ -1,0 +1,17 @@
+{
+    "main": {
+        "hidden_keys": [
+            "img", 
+            "index.rst"
+        ], 
+        "keys": [
+            "2008", 
+            "2007"
+        ], 
+        "contenttype": "Document"
+    }, 
+    "dublin": {
+        "description": "", 
+        "title": "博文"
+    }
+}

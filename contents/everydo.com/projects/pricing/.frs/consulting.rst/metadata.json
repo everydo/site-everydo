@@ -1,0 +1,19 @@
+{
+    "main": {
+        "hidden_keys": [
+            "img"
+        ], 
+        "keys": [
+            "index.rst", 
+            "what.rst", 
+            "solutions.rst", 
+            "roles.rst", 
+            "saas.rst"
+        ], 
+        "contenttype": "Document"
+    }, 
+    "dublin": {
+        "description": "", 
+        "title": "导入和支持服务"
+    }
+}

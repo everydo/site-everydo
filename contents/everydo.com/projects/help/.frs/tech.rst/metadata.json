@@ -1,0 +1,13 @@
+{
+    "main": {
+        "contenttype": "Document"
+    },
+    "dublin": {
+        "title": "《技术平台介绍》",
+        "description": "从技术的角度介绍易度文档管理，适合IT经理阅读",
+        "creators": [
+            "潘俊勇"
+        ],
+        "created": "2009-12-30 17:21:20.868209"
+    }
+}

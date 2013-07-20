@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" ?>
+<metadata xmlns="http://plone.org/ns/archetypes/" xmlns:cmf="http://cmf.zope.org/namespaces/default/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xmp="adobe:ns:meta">
+	<dc:title>
+工程
+	</dc:title>
+	<dc:description>
+	</dc:description>
+	<field id="hidden_keys">
+	  "img", 'index.rst'
+	</field>
+	<field id="keys">
+	  "index.rst","what.rst","solutions.rst","roles.rst","saas.rst"
+	</field>
+</metadata>

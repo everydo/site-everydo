@@ -1,0 +1,35 @@
+{
+    "main": {
+        "left_col": ".. navtree::\n   :root_depth: 6",
+        "keys": [
+            "index.rst", 
+            "qianjing.rst"
+            
+        ], 
+        "hidden_keys": [
+            "img"
+        ], 
+        "contenttype": "Folder"
+    }, 
+    "dublin": {
+        "description": "", 
+        "title": "期刊杂志"
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

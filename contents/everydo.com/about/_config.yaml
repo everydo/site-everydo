@@ -1,0 +1,8 @@
+description: ''
+exclude: [img, index.rst]
+order: [workonline.rst, executability.rst, communication.rst, knowledge.rst, thought.rst,
+  dev.rst]
+theme: default.html
+theme_base: http://localhost:6543/themes/viewer/
+theme_default: default.html
+title: 关于易度

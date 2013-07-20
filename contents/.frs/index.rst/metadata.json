@@ -1,0 +1,11 @@
+{
+    "main": {
+        "right_col":"",
+	"left_col":"",
+	"contenttype":"document"
+    }, 
+    "dublin": {
+        "description": "", 
+        "title": "首页"
+    }
+}

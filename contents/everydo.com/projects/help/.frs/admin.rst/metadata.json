@@ -1,0 +1,22 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "conenttype": "Document"
+    }, 
+    "dublin": {
+        "rights": "", 
+        "publisher": "", 
+        "identifier": "", 
+        "contributors": [], 
+        "title": "系统管理手册", 
+        "description": "系统管理的操作界面详细说明", 
+        "created": "2009-01-17 06:51:52", 
+        "modified": "2009-01-17 06:51:52", 
+        "language": "", 
+        "subjects": [], 
+        "creators": [
+            "users.panjunyong"
+        ], 
+        "type": ""
+    }
+}

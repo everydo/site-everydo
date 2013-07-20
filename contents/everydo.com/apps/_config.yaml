@@ -1,0 +1,9 @@
+description: ''
+exclude: [indexcol.rst, signup.rst, download, img]
+order: [index.rst, meetingroom.rst, dinner.rst, isodoc.rst, meeting.rst, bug.rst,
+  oa.rst, iframe.rst, album.rst, zopen.calendar.rst, zopen.weather.rst, car.rst, hr.rst,
+  sms.rst, install.rst]
+theme: default.html
+theme_base: http://localhost:6543/themes/viewer/
+theme_default: default.html
+title: 应用仓库

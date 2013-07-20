@@ -1,0 +1,27 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "conenttype": "Document", 
+        "id": 2044375431, 
+        "stati": [
+            "visible.default", 
+            "modify.default"
+        ]
+    }, 
+    "dublin": {
+        "rights": "", 
+        "publisher": "", 
+        "identifier": "", 
+        "contributors": [], 
+        "title": "文件库FRS维护工具", 
+        "description":"一组文件库的维护工具，包括批量导入、索引、导出、格式转换等",
+        "created": "2009-01-17 06:51:52", 
+        "modified": "2009-01-17 06:51:52", 
+        "language": "", 
+        "subjects": [], 
+        "creators": [
+            "users.panjunyong"
+        ], 
+        "type": ""
+    }
+}

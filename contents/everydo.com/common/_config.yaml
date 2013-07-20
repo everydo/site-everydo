@@ -1,0 +1,7 @@
+description: ''
+exclude: [img, contact.rst.bak]
+order: [about.rst, contact.rst, spread.rst, privacy.rst, terms.rst]
+theme: default.html
+theme_base: http://localhost:6543/themes/viewer/
+theme_default: default.html
+title: 导航
