@@ -366,8 +366,8 @@ border: 0px
 .navTreeItem a, dd.portletItem .navTreeItem a {
 border:0px;
 display:block;
-padding-bottom:0.25em;
-padding-top:0.2em;
+padding-bottom:0.5em;
+padding-top:0.5em;
 text-decoration:none;
 padding-left:0.5em
 }
