@@ -1,5 +1,5 @@
 ---
-created: 2010-05-01 12:30
+created: 2010-05-01 12:30:00
 creator: 潘俊勇
 description: ''
 title: 短信来了！

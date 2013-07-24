@@ -1,5 +1,5 @@
 ---
-created: 2011-11-17 14:40
+created: 2011-11-17 14:40:00
 creator: 黄恒森
 description: ''
 title: 【公告通知】网站访问域名问题

@@ -1,5 +1,5 @@
 ---
-created: 2012-05-16 10:18
+created: 2012-05-16 10:18:00
 creator: 黄恒森
 description: ''
 title: 文档管理软件 V3.0.47 发布，功能应用得到全面升级

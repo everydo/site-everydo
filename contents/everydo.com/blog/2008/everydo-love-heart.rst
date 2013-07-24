@@ -1,5 +1,5 @@
 ---
-created: 2008-05-19 03:33
+created: 2008-05-19 03:33:00
 creator: 李古拉斯
 description: ''
 title: 爱，用心传递！

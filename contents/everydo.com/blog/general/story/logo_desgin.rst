@@ -1,5 +1,5 @@
 ---
-created: 2010-04-15 14:17
+created: 2010-04-15 14:17:00
 creator: 懒懒
 description: ''
 title: 易度LOGO诞生记

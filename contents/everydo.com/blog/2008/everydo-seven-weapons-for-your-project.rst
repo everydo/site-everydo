@@ -1,5 +1,5 @@
 ---
-created: 2008-04-08 04:29
+created: 2008-04-08 04:29:00
 creator: 潘俊勇
 description: 总体上，如何使用EveryDo的七种武器，进行项目协作和项目管理
 title: 七种武器之综合演练

@@ -1,5 +1,5 @@
 ---
-created: 2008-12-31 08:54
+created: 2008-12-31 08:54:00
 creator: 潘俊勇
 description: ''
 title: 那种感觉

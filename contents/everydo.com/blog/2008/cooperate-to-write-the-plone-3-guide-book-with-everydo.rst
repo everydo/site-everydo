@@ -1,5 +1,5 @@
 ---
-created: 2008-04-08 04:29
+created: 2008-04-08 04:29:00
 creator: benky
 description: ''
 title: 《Plone内容管理定制开发指南》利用EveryDo平台开放协作编写

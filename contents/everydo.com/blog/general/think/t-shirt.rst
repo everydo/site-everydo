@@ -1,5 +1,5 @@
 ---
-created: 2010-05-18 19:09
+created: 2010-05-18 19:09:00
 creator: 懒懒
 description: ''
 title: 设计心得及T-Shirt发送

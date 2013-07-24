@@ -1,5 +1,5 @@
 ---
-created: 2008-11-30 10:10
+created: 2008-11-30 10:10:00
 creator: 潘俊勇
 description: ''
 title: 多久，男孩才能成男人

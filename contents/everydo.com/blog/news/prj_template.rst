@@ -1,5 +1,5 @@
 ---
-created: 2010-07-20 11:26
+created: 2010-07-20 11:26:00
 creator: Benky
 description: ''
 title: '[新功能] 项目模板功能'

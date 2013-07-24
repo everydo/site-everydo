@@ -1,5 +1,5 @@
 ---
-created: 2012-01-10 14:11
+created: 2012-01-10 14:11:00
 creator: 黄恒森
 description: ''
 title: 江苏太阳鸟照明电器建立企业文档管理库

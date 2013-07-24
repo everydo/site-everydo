@@ -1,5 +1,5 @@
 ---
-created: 2010-07-25 00:27
+created: 2010-07-25 00:27:00
 creator: 潘俊勇
 description: ''
 title: 易度产品的思考

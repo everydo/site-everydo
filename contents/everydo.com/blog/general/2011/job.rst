@@ -1,5 +1,5 @@
 ---
-created: 2011-02-16 09:24
+created: 2011-02-16 09:24:00
 creator: 潘俊勇
 description: ''
 title: 易度招聘贴2011

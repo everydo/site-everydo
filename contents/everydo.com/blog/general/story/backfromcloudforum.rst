@@ -1,5 +1,5 @@
 ---
-created: 2010-05-27 13:07
+created: 2010-05-27 13:07:00
 creator: 潘俊勇
 description: ''
 title: 云计算大会归来

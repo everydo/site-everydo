@@ -1,5 +1,5 @@
 ---
-created: 2010-06-26 14:43
+created: 2010-06-26 14:43:00
 creator: 潘俊勇
 description: ''
 title: 易度诚聘

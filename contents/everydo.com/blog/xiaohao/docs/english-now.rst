@@ -1,5 +1,5 @@
 ---
-created: 2009-08-20 16:47
+created: 2009-08-20 16:47:00
 creator: 潘俊勇
 description: ''
 title: 支持中英文双语！

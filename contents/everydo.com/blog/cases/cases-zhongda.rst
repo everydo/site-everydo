@@ -1,5 +1,5 @@
 ---
-created: 2011-12-27 17:18
+created: 2011-12-27 17:18:00
 creator: 黄恒森
 description: ''
 title: 易度成功签约上海众达信息产业有限公司

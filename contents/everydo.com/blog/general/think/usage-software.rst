@@ -1,5 +1,5 @@
 ---
-created: 2010-02-22 18:47
+created: 2010-02-22 18:47:00
 creator: 潘俊勇
 description: ''
 title: 让管理软件真正用起来

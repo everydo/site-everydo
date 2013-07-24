@@ -1,5 +1,5 @@
 ---
-created: 2010-01-25 13:29
+created: 2010-01-25 13:29:00
 creator: 小海
 description: ''
 title: 喜迎新年，祝贺山西运城招生考试中心正式签约易度

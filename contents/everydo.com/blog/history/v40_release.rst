@@ -1,5 +1,5 @@
 ---
-created: 2011-01-24 10:08
+created: 2011-01-24 10:08:00
 creator: 罗建峰
 description: ''
 title: 易度文档管理系统V3.0.40正式发布！

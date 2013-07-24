@@ -1,5 +1,5 @@
 ---
-created: 2010-09-03 09:39
+created: 2010-09-03 09:39:00
 creator: 杨小勇
 description: ''
 title: 新网域名服务器故障临时处理方法

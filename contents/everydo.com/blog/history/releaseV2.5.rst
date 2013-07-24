@@ -1,5 +1,5 @@
 ---
-created: 2010-05-21 14:21
+created: 2010-05-21 14:21:00
 creator: 小罗
 description: ''
 title: 易度文档管理系统3.0.25版本正式发布！

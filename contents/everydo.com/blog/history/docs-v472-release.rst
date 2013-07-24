@@ -1,5 +1,5 @@
 ---
-created: 2012-06-12 15:10
+created: 2012-06-12 15:10:00
 creator: 黄恒森
 description: ''
 title: 文档管理系统 V3.0.472 版正式发布

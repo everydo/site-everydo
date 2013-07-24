@@ -1,5 +1,5 @@
 ---
-created: 2011-12-15 15:00
+created: 2011-12-15 15:00:00
 creator: 黄恒森
 description: ''
 title: 创业大赛落幕，易度获创业奖

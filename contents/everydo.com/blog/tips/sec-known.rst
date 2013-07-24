@@ -1,5 +1,5 @@
 ---
-created: 2009-11-30 14:04
+created: 2009-11-30 14:04:00
 creator: 小海
 description: ''
 title: 又要知识共享又要信息安全怎么办

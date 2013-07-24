@@ -1,5 +1,5 @@
 ---
-created: 2012-06-04 15:50
+created: 2012-06-04 15:50:00
 creator: 黄恒森
 description: ''
 title: 政府部门如何加强文件管理

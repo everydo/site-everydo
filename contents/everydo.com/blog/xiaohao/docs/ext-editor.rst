@@ -1,5 +1,5 @@
 ---
-created: 2009-11-26 11:15
+created: 2009-11-26 11:15:00
 creator: 小海
 description: ''
 title: 有了它，文档编辑如此简单！—易度外部编辑器

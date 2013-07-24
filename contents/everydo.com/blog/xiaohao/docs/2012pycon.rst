@@ -1,5 +1,5 @@
 ---
-created: 2012-10-19 09:46
+created: 2012-10-19 09:46:00
 creator: 潘俊勇
 description: ''
 title: Python中国大会2012开幕，易度金牌赞助商

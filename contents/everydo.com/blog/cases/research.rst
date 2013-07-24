@@ -1,5 +1,5 @@
 ---
-created: 2012-04-10 11:50
+created: 2012-04-10 11:50:00
 creator: 黄恒森
 description: ''
 title: 生物、药物研究行业的文档管理需求

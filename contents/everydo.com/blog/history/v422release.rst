@@ -1,5 +1,5 @@
 ---
-created: 2011-05-03 09:44
+created: 2011-05-03 09:44:00
 creator: 易度v4.2.2版本发布
 description: ''
 title: 易度文档管理系统V3.0.422正式发布

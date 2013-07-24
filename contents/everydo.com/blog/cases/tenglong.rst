@@ -1,5 +1,5 @@
 ---
-created: 2012-02-17 17:33
+created: 2012-02-17 17:33:00
 creator: 黄恒森
 description: ''
 title: 腾龙信息工程公司签约易度

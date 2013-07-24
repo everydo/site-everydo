@@ -1,5 +1,5 @@
 ---
-created: 2008-05-23 20:47
+created: 2008-05-23 20:47:00
 creator: 潘俊勇
 description: ''
 title: 好用的软件

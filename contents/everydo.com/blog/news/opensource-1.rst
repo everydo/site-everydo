@@ -1,5 +1,5 @@
 ---
-created: 2010-03-23 10:10
+created: 2010-03-23 10:10:00
 creator: 潘俊勇
 description: ''
 title: 易度项目管理经典版正式开源

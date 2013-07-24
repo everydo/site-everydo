@@ -1,5 +1,5 @@
 ---
-created: 2010-10-30 11:08
+created: 2010-10-30 11:08:00
 creator: 潘俊勇
 description: ''
 title: 易度支持完整的CAS单点登录协议

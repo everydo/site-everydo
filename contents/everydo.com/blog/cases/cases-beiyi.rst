@@ -1,5 +1,5 @@
 ---
-created: 2011-12-21 15:26
+created: 2011-12-21 15:26:00
 creator: 黄恒森
 description: ''
 title: 易度成功签约北京大学医学部

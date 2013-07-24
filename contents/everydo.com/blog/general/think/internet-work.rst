@@ -1,5 +1,5 @@
 ---
-created: 2010-11-14 02:22
+created: 2010-11-14 02:22:00
 creator: 潘俊勇
 description: ''
 title: 互联网时代，该如何办公？

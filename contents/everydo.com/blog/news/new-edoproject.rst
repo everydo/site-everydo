@@ -1,5 +1,5 @@
 ---
-created: 2009-08-16 20:47
+created: 2009-08-16 20:47:00
 creator: 潘俊勇
 description: 易度项目管理系统新版本正式上线邀测
 title: 新版本上线邀测中!

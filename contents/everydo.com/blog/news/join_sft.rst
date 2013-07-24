@@ -1,5 +1,5 @@
 ---
-created: 2010-08-09 15:50
+created: 2010-08-09 15:50:00
 creator: 罗建峰
 description: ''
 title: 易度参展第三届中国软件渠道大会备受关注

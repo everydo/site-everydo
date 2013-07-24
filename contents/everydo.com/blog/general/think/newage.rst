@@ -1,5 +1,5 @@
 ---
-created: 2010-02-28 14:44
+created: 2010-02-28 14:44:00
 creator: 潘俊勇
 description: ''
 title: 易度：迎接“新软件”时代

@@ -1,5 +1,5 @@
 ---
-created: 2012-03-23 17:46
+created: 2012-03-23 17:46:00
 creator: 黄恒森
 description: ''
 title: 集思广益，开通用户反馈的渠道

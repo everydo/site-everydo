@@ -1,5 +1,5 @@
 ---
-created: 2008-12-6 7:18
+created: 2008-12-6 7:18:00
 creator: 潘俊勇
 description: ''
 title: 凌晨4时

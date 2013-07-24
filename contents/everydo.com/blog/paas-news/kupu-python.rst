@@ -1,5 +1,5 @@
 ---
-created: 2010-08-18 21:11
+created: 2010-08-18 21:11:00
 creator: 潘俊勇
 description: ''
 title: Python介绍短文

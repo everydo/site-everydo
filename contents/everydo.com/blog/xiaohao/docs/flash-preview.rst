@@ -1,5 +1,5 @@
 ---
-created: 2010-08-24 11:40
+created: 2010-08-24 11:40:00
 creator: 潘俊勇
 description: ''
 title: 如“百度文库”般的查看文档

@@ -1,5 +1,5 @@
 ---
-created: 2010-08-24 13:08
+created: 2010-08-24 13:08:00
 creator: 罗建峰
 description: ''
 title: 易度参加微软云计算研讨会

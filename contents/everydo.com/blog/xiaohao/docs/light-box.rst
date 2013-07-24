@@ -1,5 +1,5 @@
 ---
-created: 2010-10-13 11:40
+created: 2010-10-13 11:40:00
 creator: 潘俊勇
 description: ''
 title: 当LightBox遇到易度

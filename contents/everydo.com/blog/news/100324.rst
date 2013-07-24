@@ -1,5 +1,5 @@
 ---
-created: 2010-03-22 14:25
+created: 2010-03-22 14:25:00
 creator: benky
 description: ''
 title: 推荐使用非IE6浏览器访问易度平台

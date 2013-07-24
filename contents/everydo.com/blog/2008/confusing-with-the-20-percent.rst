@@ -1,5 +1,5 @@
 ---
-created: 2008-04-08 04:29
+created: 2008-04-08 04:29:00
 creator: heqiang
 description: ''
 title: 令人费解的20%

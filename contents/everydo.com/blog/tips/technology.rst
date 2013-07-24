@@ -1,5 +1,5 @@
 ---
-created: 2012-05-02 16:10
+created: 2012-05-02 16:10:00
 creator: 黄恒森
 description: ''
 title: 文档管理软件所要具备的七项基本技术

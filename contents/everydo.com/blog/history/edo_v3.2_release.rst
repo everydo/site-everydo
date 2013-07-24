@@ -1,5 +1,5 @@
 ---
-created: 2010-11-03 09:31
+created: 2010-11-03 09:31:00
 creator: 罗剑锋
 description: ''
 title: 易度文档管理系统v3.0.32正式发布
