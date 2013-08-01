@@ -1,5 +1,5 @@
 TEXTAREA {
-	BORDER-RIGHT: #ddd 1px solid; BORDER-TOP: #666 1px solid; BACKGROUND: url(/@@/img/input_background.gif) white repeat-x; FONT: 100% Monaco, "Courier New", Courier, monospace; BORDER-LEFT: #666 1px solid; WIDTH: 100%; BORDER-BOTTOM: #ddd 1px solid
+	BORDER-RIGHT: #ddd 1px solid; BORDER-TOP: #666 1px solid; FONT: 100% Monaco, "Courier New", Courier, monospace; BORDER-LEFT: #666 1px solid; WIDTH: 100%; BORDER-BOTTOM: #ddd 1px solid
 }
 INPUT {
 	VISIBILITY: visible; VERTICAL-ALIGN: middle; FONT-FAMILY: fontFamily
