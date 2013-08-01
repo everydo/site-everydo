@@ -71,3 +71,26 @@ border-style:none none solid;
 border-width:0 0 1px;
 font-weight:bold;
 }
+
+#blog-list ul {
+padding-left: 1.5em;
+padding-right: 1.5em;
+margin-left: 0;
+}
+#blog-list ul li {
+list-style-type: none;
+}
+
+#blog-list ul li a{
+TEXT-DECORATION: none;
+color: #10608B;
+line-height: 24px;
+}
+
+#blog-list ul li span{
+DISPLAY: block;
+font-size: 13px;
+line-height: 20px;
+text-align: right;
+width: 170px;
+}
