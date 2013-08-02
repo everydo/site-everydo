@@ -1,9 +1,0 @@
-{
-    "main": {
-        "contenttype": "Folder"
-    }, 
-    "dublin": {
-        "description": "企业的工作消息系统，支撑短信发送，和整个平台紧密集成，是邮件系统的良好补充。", 
-        "title": "易度消息"
-    }
-}

@@ -1,9 +1,0 @@
-{
-    "main": {
-        "contenttype": "Document"
-    }, 
-    "dublin": {
-        "description": "基于戴明环，结合企业矩阵管理制度，以计划-任务-报告为核心的工作管理体系。", 
-        "title": "工作管理"
-    }
-}
