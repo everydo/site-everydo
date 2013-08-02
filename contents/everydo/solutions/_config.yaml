@@ -1,4 +1,4 @@
 description: ''
-exclude: [indexcol.rst, img2, img]
+exclude: [img2, img]
 order: [pdca.rst, docs.rst, project.rst, portal.rst]
 title: 解决方案

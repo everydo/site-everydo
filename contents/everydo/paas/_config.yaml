@@ -1,4 +1,4 @@
 description: ''
-exclude: [img, deploy.rst, pkg.rst, signup.rst, esp.rst, applet, datamanager, indexcol.rst]
+exclude: [img, deploy.rst, pkg.rst, signup.rst, esp.rst, applet, datamanager]
 order: [index.rst, workdesk, worksite, workgroup, project, bizman, admin]
 title: 开发平台
