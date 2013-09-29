@@ -42,16 +42,15 @@ title: 易度云办公平台
 易度工作平台包括一组精心设计的 `基础办公套件 <edoapps.rst>`__ ， 
 包括消息、任务、文档、项目、流程、个人工作台等模块，满足企业日常的办公需求。
 
-- `易度文档 <docs.rst>`__: 文档的存储、查找、权限、分发，管理好企业的知识资产
+- `易度文档 <http://docs.everydo.com>`__: 文档的存储、查找、权限、分发，管理好企业的知识资产
 
-- `易度项目 <project.rst>`__: 项目团队多方沟通、异地协作，把控项目进度，高效做好每一个项目
+- `易度项目 <http://pm.everydo.com>`__: 项目团队多方沟通、异地协作，把控项目进度，高效做好每一个项目
 
 - `易度流程 <flow.rst>`__: 建立电子化的工作流程，实现企业流程自动化，规范管理，提升效率
 
 
 .. image:: img/zaixiancangku.gif
    :class: float-right
-   :target: http://everydo.com/paas
    
 丰富的易度在线应用仓库
 ==============================
@@ -65,9 +64,9 @@ title: 易度云办公平台
 
 .. image:: img/kaifa.gif
    :class: float-right
-   :target: http://everydo.com/paas
+   :target: http://everydo.com/
 
-在线扩展开发: PaaS
+在线开发: PaaS
 =======================
 易度提供了直接在浏览器上进行快速扩展开发，
 构建和部署个性化应用的能力，使得易度不能限于传统OA的功能，有极大的可扩展性。
@@ -77,7 +76,7 @@ title: 易度云办公平台
 和Google App Engine一样，易度扩展开发采用Python作为开发语言。
 支持浏览器在线开发和离线开发2种开发模式。
 
-`详细请访问 <http://everydo.com/paas>`__
+`详细请访问 <http://developer.everydo.com/>`__
 
 .. image:: img/pdca.gif
    :class: float-right

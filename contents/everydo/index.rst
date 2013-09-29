@@ -202,7 +202,7 @@ title: 首页
                    <div id="blog-down-img">
                     <p>
                        <a href="apps/" title="易度在线应用仓库"><img src="img/adv-apps.png"/></a>
-                                           <a href="http://everydo.com/paas" target="_blank" title="易度PaaS开发平台"><img src="img/paas.gif"/></a>
+                       <a href="http://developer.everydo.com/" target="_blank" title="易度开发者"><img src="img/paas.gif"/></a>
                                         </p>
                    </div>
                      <div id="blog-list">
