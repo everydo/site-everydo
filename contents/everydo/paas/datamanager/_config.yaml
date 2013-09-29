@@ -1,5 +1,0 @@
-description: 结合一个定餐管理系统实例，使用数据管理器，进行表单和流程的定制，对定制人员的开发技能要求不高。
-exclude: [img]
-order: [preface.rst, requirement.rst, form.rst, flow1.rst, flow2.rst, fields.rst,
-  settings.rst, var.rst]
-title: 表单和流程定制指南
