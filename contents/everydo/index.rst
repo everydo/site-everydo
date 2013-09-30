@@ -78,9 +78,9 @@ title: 首页
                                             <li>在线查看</li>
                                             <li>权限控制</li>
                                             <li>版本管理</li>
-                                            <li>格式转换</li>
                                             <li>纸质文件扫描</li>
                                             <li>文档流程定制</li>
+                                            <li>...</li>
                                         </ul>
                                         <a target="_blank" href="http://edodocs.com">详细了解&gt;&gt;</a>
                                     </div>
@@ -108,12 +108,12 @@ title: 首页
                                                                 <h3><a href="solutions/">易度办公解决方案</a></h3>
                                                                 <ul>
                                                                         <li><a href="http://edodocs.com/solutions/isodoc.rst" target="_blank">ISO文控</a></li>
-                                                                        <li><a href="http://pdca.everydo.com" target="_blank">工作管理</a></li>
-                                                                        <li><a href="solutions/workflow.rst">流程自动化</a></li>
+                                                                        <li><a href="http://edodocs.com/solutions/edm.rst" target="_blank">产品图文档管理</a></li>
+                                                                        <li>协同办公</li>
                                                                         <li>知识管理</li>
                                                                         <li>档案管理</li>
-                                                                        <li>课件管理</li>
-                                                                        <li>分包项目评审系统</li>
+                                                                        <li>合同管理</li>
+                                                                        <li>经销商门户</li>
                                                                         <li>...</li>
                                                                 </ul>
                                 <a href="solutions/">详细了解&gt;&gt;</a>
