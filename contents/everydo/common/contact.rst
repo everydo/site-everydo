@@ -26,7 +26,7 @@ title: 联系我们
        `易度产品负责人微博 <http://weibo.com/panjunyong>`__
 
    - - 官方微信
-     - .. image:: ../img/weixin-rqcode.jpg
+     - .. image:: ../img/weixin-qrcode.jpg
    - - 客服/技术支持
      - 电话: 020-38055596邮件: service@everydo.com
    - - 产品代理
