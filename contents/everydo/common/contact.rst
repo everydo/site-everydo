@@ -11,8 +11,6 @@ title: 联系我们
 
    - - 公司名称
      - 广州润普网络科技有限公司
-   - - 公司微博
-     - `新浪微博 <http://weibo.com/gzeverydo>`__ `易度产品负责人潘俊勇 <http://weibo.com/panjunyong>`__
    - - 公司地址
      - 广州公司: 广州市天河区枫叶路8号加拿大花园6栋2208房(靠近天河公园，乘车BRT上社站下)(邮编：510630)
 
@@ -20,6 +18,15 @@ title: 联系我们
 
        京津唐支持服务中心：北京市朝阳区朝阳区霞光里8号鑫泰大厦101室
 
+   - - 公司微博
+     - `官方微博 <http://weibo.com/gzeverydo>`__ 
+
+       `开发者中心微博 <http://weibo.com/edodev>`__ 
+
+       `易度产品负责人微博 <http://weibo.com/panjunyong>`__
+
+   - - 官方微信
+     - .. image:: ../img/weixin-rqcode.jpg
    - - 客服/技术支持
      - 电话: 020-38055596邮件: service@everydo.com
    - - 产品代理
