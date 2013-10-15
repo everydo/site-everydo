@@ -19,14 +19,14 @@ title: 联系我们
        京津唐支持服务中心：北京市朝阳区朝阳区霞光里8号鑫泰大厦101室
 
    - - 公司微博
-     - `官方微博 <http://weibo.com/gzeverydo>`__ 
+     - - `官方微博 <http://weibo.com/gzeverydo>`__ 
 
-       `开发者中心微博 <http://weibo.com/edodev>`__ 
+       - `开发者中心微博 <http://weibo.com/edodev>`__ 
 
-       `易度产品负责人微博 <http://weibo.com/panjunyong>`__
+       - `易度产品负责人微博 <http://weibo.com/panjunyong>`__
 
    - - 官方微信
-     - .. image:: ../img/weixin-qrcode.jpg
+     - .. image:: ../img/weixin_qrcode.jpg
    - - 客服/技术支持
      - 电话: 020-38055596邮件: service@everydo.com
    - - 产品代理
