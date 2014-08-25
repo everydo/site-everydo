@@ -39,7 +39,7 @@ title: 首页
 
             <div id="index-top-left">
                 <div id="left-content">
-                   <h3>7年专注研发<br>重新定义 在线工作</h3>
+                   <h3>7年专注研发<br>完美解决企业办公难题</h3>
                                <p style="margin-bottom:15px"><a target="_blank" href="http://demo.oc.easydo.cn/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Fdemo.easydo.cn&isdocsdemo=1"><img src="img/tryout.png"/></a></p>
                                <p style="margin-bottom:15px"><a target="_blank" href="http://oc.easydo.cn/@@signup.html?setup=zopen.setups.all"><img src="img/register.png"/></a></p>
                                    <img src ="img/zhibiao.gif">
@@ -71,52 +71,52 @@ title: 首页
                                 <div id="content-one">
                                     <div id="content-two-img"><img src="img/edodocs.png"/></div>
                                     <div id="one-content">
-                                        <h3><a href="http://edodocs.com" target="_blank">文档</a></h3>
+                                        <h3><a href="/tour/docs/">文档</a></h3>
                                         <ul>
-                                            <li>集中可靠存储</li>
-                                            <li>文件分类和搜索</li>
+                                            <li>全文搜索</li>
                                             <li>在线查看</li>
                                             <li>权限控制</li>
                                             <li>版本管理</li>
-                                            <li>纸质文件扫描</li>
-                                            <li>文档流程定制</li>
+                                            <li>文档同步</li>
+                                            <li>档案管理</li>
+                                            <li>管控流程</li>
                                             <li>...</li>
                                         </ul>
-                                        <a target="_blank" href="http://edodocs.com">详细了解&gt;&gt;</a>
+                                        <a href="/tour/docs/">详细了解&gt;&gt;</a>
                                     </div>
                                 </div>
                                 <div id="content-two">
                             <div id="content-two-img"><img src="img/k.png"/></div>
                             <div id="two-content">
-                                <h3><a href="http://pm.everydo.com" target="_blank">团队协作</a></h3>
+                                <h3><a href="/tour/collab/">团队协作</a></h3>
                                 <ul>
-                                                <li>项目进度监控</li>
-                                                 <li>多方项目协作</li>
-                                                <li>任务管理</li>
-                                                <li>文件共享</li>
-                                                <li>项目组员沟通</li>
-                                                <li>费用和工时统计</li>
-                                                <li>项目流程定制</li>
+                                                <li>即时通讯</li>
+                                                <li>文档分享</li>
+                                                <li>评论</li>
+                                                <li>通知</li>
+                                                <li>项目空间</li>
+                                                <li>工作组</li>
+                                                <li>部门门户</li>
                                                 <li>...</li>
                                 </ul>
-                                <a target="_blank" href="http://pm.everydo.com/">详细了解&gt;&gt;</a>
+                                <a href="/tour/collab/">详细了解&gt;&gt;</a>
                             </div>
                         </div>
                                           <div id="content-three">
                                 <div id="content-three-img"><img src="img/i.png"/></div>
                                                         <div id="three-content">
-                                                                <h3><a href="solutions/">表单流程</a></h3>
+                                                                <h3><a href="/tour/apps/">应用定制</a></h3>
                                                                 <ul>
-                                                                        <li><a href="http://edodocs.com/solutions/isodoc.rst" target="_blank">ISO文控</a></li>
-                                                                        <li><a href="http://edodocs.com/solutions/edm.rst" target="_blank">产品图文档管理</a></li>
-                                                                        <li>协同办公</li>
-                                                                        <li>知识管理</li>
-                                                                        <li>档案管理</li>
-                                                                        <li>合同管理</li>
-                                                                        <li>经销商门户</li>
+                                                                        <li>表单自定义</li>
+                                                                        <li>流程自定义</a></li>
+                                                                        <li>栏目自定义</li>
+                                                                        <li>Excel转应用</li>
+                                                                        <li>皮肤定制</li>
+                                                                        <li>软件包开发</li>
+                                                                        <li>近百扩展应用</li>
                                                                         <li>...</li>
                                                                 </ul>
-                                <a href="solutions/">详细了解&gt;&gt;</a>
+                                <a href="/tour/apps/">详细了解&gt;&gt;</a>
                                                         </div>
 
                         </div>

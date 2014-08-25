@@ -1,0 +1,10 @@
+description: ''
+exclude: [img, picture, pic]
+order: [index.rst, why-edo.rst, organization.rst, view.rst, search.rst, 
+  folder.rst, upload.rst, versioning.rst, share.rst, workflows.rst, 
+  doc-flow.rst, notify.rst, 
+  security.rst, dynamic-password.rst, login-ui.rst, site-deployment.rst,
+  customization.rst, apps.rst, doc_review.rst, doc_borrow.rst,
+  bianhao.rst, tags_viewer.rst, baobiao.rst, app_sendout.rst, zopen.publisher.rst,
+  folder_publisher.rst, wenjianchundang.rst, users_online.rst, flash, honor.rst]
+title: 产品介绍
