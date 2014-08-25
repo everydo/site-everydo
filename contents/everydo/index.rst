@@ -26,7 +26,7 @@ title: 首页
                         <li>构建企业知识平台，让组织更聪明</li>
                         <li>无间的沟通协作，让团队更敏捷</li>
                         <li>企业流程电子化，让工作更高效</li>
-                        <li>计划和任务管控，达成您的企业目标</li>
+                        <li>应用快速构建，易度随需而变</li>
                     </ul>
                     <a href="tour/" onmouseover="document.getElementById('img-1').style.display='none';
                         document.getElementById('img-2').style.display='block'" onmouseout="document.getElementById('img-2').style.display='none';
@@ -39,7 +39,7 @@ title: 首页
 
             <div id="index-top-left">
                 <div id="left-content">
-                   <h3>数万企业用户<br>国内领先的在线工作平台</h3>
+                   <h3>7年专注研发<br>重新定义 在线工作</h3>
                                <p style="margin-bottom:15px"><a target="_blank" href="http://demo.oc.easydo.cn/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Fdemo.easydo.cn&isdocsdemo=1"><img src="img/tryout.png"/></a></p>
                                <p style="margin-bottom:15px"><a target="_blank" href="http://oc.easydo.cn/@@signup.html?setup=zopen.setups.all"><img src="img/register.png"/></a></p>
                                    <img src ="img/zhibiao.gif">
@@ -71,7 +71,7 @@ title: 首页
                                 <div id="content-one">
                                     <div id="content-two-img"><img src="img/edodocs.png"/></div>
                                     <div id="one-content">
-                                        <h3><a href="http://edodocs.com" target="_blank">易度文档管理</a></h3>
+                                        <h3><a href="http://edodocs.com" target="_blank">文档</a></h3>
                                         <ul>
                                             <li>集中可靠存储</li>
                                             <li>文件分类和搜索</li>
@@ -88,7 +88,7 @@ title: 首页
                                 <div id="content-two">
                             <div id="content-two-img"><img src="img/k.png"/></div>
                             <div id="two-content">
-                                <h3><a href="http://pm.everydo.com" target="_blank">易度项目管理</a></h3>
+                                <h3><a href="http://pm.everydo.com" target="_blank">团队协作</a></h3>
                                 <ul>
                                                 <li>项目进度监控</li>
                                                  <li>多方项目协作</li>
@@ -105,7 +105,7 @@ title: 首页
                                           <div id="content-three">
                                 <div id="content-three-img"><img src="img/i.png"/></div>
                                                         <div id="three-content">
-                                                                <h3><a href="solutions/">易度办公解决方案</a></h3>
+                                                                <h3><a href="solutions/">表单流程</a></h3>
                                                                 <ul>
                                                                         <li><a href="http://edodocs.com/solutions/isodoc.rst" target="_blank">ISO文控</a></li>
                                                                         <li><a href="http://edodocs.com/solutions/edm.rst" target="_blank">产品图文档管理</a></li>
