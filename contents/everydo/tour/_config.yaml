@@ -1,5 +1,4 @@
 description: ''
 exclude: [indexcol.rst, pic, deptimg, flowimg, img]
-order: [index.rst, edoapps.rst, docs.rst, project.rst, dept.rst, flow.rst, client.rst,
-  desk.rst, pkg.rst, apps.rst]
+order: [index.rst, docs, collab, apps, account]
 title: 产品介绍
