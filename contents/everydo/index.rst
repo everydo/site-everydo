@@ -39,7 +39,7 @@ title: 首页
 
             <div id="index-top-left">
                 <div id="left-content">
-                   <h3>7年专注研发<br>完美解决企业办公难题</h3>
+                   <h3>7年专注研发<br>追寻最优办公方案</h3>
                                <p style="margin-bottom:15px"><a target="_blank" href="http://demo.oc.easydo.cn/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Fdemo.easydo.cn&isdocsdemo=1"><img src="img/tryout.png"/></a></p>
                                <p style="margin-bottom:15px"><a target="_blank" href="http://oc.easydo.cn/@@signup.html?setup=zopen.setups.all"><img src="img/register.png"/></a></p>
                                    <img src ="img/zhibiao.gif">
