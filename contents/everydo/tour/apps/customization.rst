@@ -19,7 +19,7 @@ title: 　系统定制
 -----------------------------------------------
 网站栏目是网站功能的入口，一般位于网站左上方，包括顶层栏和当前应用栏。
 
-.. image:: pic/system-customization01.png
+.. image:: img/system-customization01.png
 
 系统可以方便地添加一个新栏目，或者删除现有的栏目，调整栏目的顺序。
 
@@ -29,7 +29,7 @@ title: 　系统定制
 -------------
 易度在线应用市场包括近百种扩展应用，用户可以按需选择安装。
 
-.. image:: pic/system-customization02.png
+.. image:: img/system-customization02.png
 
 可部署的应用包括2种：
 
@@ -42,13 +42,13 @@ title: 　系统定制
 --------------------------------------
 扩展属性即元数据，是用来说明一个对象（文件、文件夹）的额外属性。通过记录这些属性，可更全面的描述对象和更方便的检索对象。具体会在文档、文件夹、系统扩展设置三个地方使用。
 
-.. image:: pic/system-customization03.png
+.. image:: img/system-customization03.png
 
 表单和流程定制
 -----------------------------------------
 流程是一个重要的定制模块，使用该模块，可将日常办公流程电子化。典型的比如请假、会议室申请、文档审批等。用户在系统中定制的流程表单，会根据预先设定的流程逐层审批确认。通过流程部署，将预先定义的流程投入使用。
 
-.. image:: pic/system-customization04.png
+.. image:: img/system-customization04.png
 
 任何流程，都会附加一个表单，表单的内容要求自定义。
 
@@ -63,7 +63,7 @@ title: 　系统定制
 
 具体来说：由系统管理员预先定义一组规则或通过扩展软件包来安装，然后各个文件夹的管理员，将规则分配到文件夹下。
 
-.. image:: pic/system-customization05.png
+.. image:: img/system-customization05.png
 
 
 

@@ -2,16 +2,12 @@
 created:
 creator: ''
 description: ''
-title: 产品介绍
+title: 功能总览
 ---
-==========
-产品介绍
-==========
 
-.. raw:: html
-
-	<a href="http://www.edodocs.com/download.rst" style="position:absolute; top:265px; left:320px;"><img src="../solutions/img/download-bg.png" width="180" alt="立即免费下载"/></a>
-	<a href="http://www.edodocs.com/download.rst" style="position:absolute; bottom:50px; right:0px;"><img src="../solutions/img/download-bg.png" width="180" alt="立即免费下载"/></a>
+==========
+功能总览
+==========
 
 .. image:: img/chanpinjieshao.jpg
    :alt: 文档管理系统产品介绍
