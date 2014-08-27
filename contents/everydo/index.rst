@@ -23,10 +23,10 @@ title: 首页
                 <div id="index-top-right">
                            <div id="right-content">
                     <ul>
-                        <li>构建企业知识平台，让组织更聪明</li>
-                        <li>无间的沟通协作，让团队更敏捷</li>
-                        <li>企业流程电子化，让工作更高效</li>
-                        <li>应用快速构建，易度随需而变</li>
+                        <li>文档管理</li>
+                        <li>表单流程</li>
+                        <li>上百应用，按需选装</li>
+                        <li>易度，可定制的工作平台</li>
                     </ul>
                     <a href="tour/" onmouseover="document.getElementById('img-1').style.display='none';
                         document.getElementById('img-2').style.display='block'" onmouseout="document.getElementById('img-2').style.display='none';
