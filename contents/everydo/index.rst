@@ -24,7 +24,7 @@ title: 首页
                            <div id="right-content">
                     <ul>
                         <li>文档管理</li>
-                        <li>表单流程</li>
+                        <li>表单、流程</li>
                         <li>上百应用，按需选装</li>
                         <li>易度，可定制的工作平台</li>
                     </ul>
