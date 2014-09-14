@@ -42,7 +42,7 @@ title: 易度云办公平台
 易度工作平台包括一组精心设计的 `基础办公套件 <edoapps.rst>`__ ， 
 包括消息、任务、文档、项目、流程、个人工作台等模块，满足企业日常的办公需求。
 
-- `易度文档 <http://docs.everydo.com>`__: 文档的存储、查找、权限、分发，管理好企业的知识资产
+- `易度文档 <http://edodocs.com>`__: 文档的存储、查找、权限、分发，管理好企业的知识资产
 
 - `易度项目 <http://pm.everydo.com>`__: 项目团队多方沟通、异地协作，把控项目进度，高效做好每一个项目
 
@@ -64,7 +64,7 @@ title: 易度云办公平台
 
 .. image:: img/kaifa.gif
    :class: float-right
-   :target: http://everydo.com/
+   :target: http://easydo.cn/
 
 在线开发: PaaS
 =======================
