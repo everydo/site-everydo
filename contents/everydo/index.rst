@@ -23,10 +23,10 @@ title: 首页
                 <div id="index-top-right">
                            <div id="right-content">
                     <ul>
-                        <li>文档分析、表单流程为基础</li>
+                        <li>文档、流程、消息，办公可以简单</li>
                         <li>上百应用，按需选装</li>
-                        <li>开发平台，自由定制</li>
-                        <li>满足你任意的办公需求</li>
+                        <li>免编程，定制你的工作平台</li>
+                        <li>快速开发，无穷扩展可能</li>
                     </ul>
                     <a href="tour/" onmouseover="document.getElementById('img-1').style.display='none';
                         document.getElementById('img-2').style.display='block'" onmouseout="document.getElementById('img-2').style.display='none';
