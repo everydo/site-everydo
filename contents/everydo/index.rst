@@ -23,7 +23,7 @@ title: 首页
                 <div id="index-top-right">
                            <div id="right-content">
                     <ul>
-                        <li>文档、流程、消息，办公可以简单</li>
+                        <li>基础办公，简单易用</li>
                         <li>上百应用，按需选装</li>
                         <li>免编程，定制你的工作平台</li>
                         <li>快速开发，无穷扩展可能</li>
