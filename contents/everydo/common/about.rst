@@ -30,8 +30,8 @@ title: 关于我们
 
        - `易度产品负责人微博 <http://weibo.com/panjunyong>`__
 
-   - - 联系方式
-     - 电话: 020-66351882 邮件: info@everydo.com
+   - - 邮件
+     -  info@everydo.com
    - - 银行帐号
      - 开户名：广州润普网络科技有限公司
 
