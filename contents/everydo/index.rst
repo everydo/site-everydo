@@ -40,7 +40,7 @@ title: 首页
             <div id="index-top-left">
                 <div id="left-content">
                    <h3>7年专注研发<br>追寻最优办公方案</h3>
-                               <p style="margin-bottom:15px"><a target="_blank" href="http://oc.easydo.cn/demo/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Fdemo.easydo.cn&isdocsdemo=1"><img src="img/tryout.png"/></a></p>
+                               <p style="margin-bottom:15px"><a target="_blank" href="http://oc.easydo.cn/demo/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Fdemo.easydo.cn/default&isdocsdemo=1"><img src="img/tryout.png"/></a></p>
                                <p style="margin-bottom:15px"><a target="_blank" href="http://oc.easydo.cn/@@signup.html?setup=zopen.setups.all"><img src="img/register.png"/></a></p>
                                    <img src ="img/zhibiao.gif">
                              <a href="#" onclick="document.getElementById('left-content').style.display='none';
